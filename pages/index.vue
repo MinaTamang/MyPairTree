@@ -7,7 +7,7 @@
         Hello World
       </h1>
       <h2 class="subtitle">
-        My name is Mina
+        Welcome to technical demonstrator of Mina Tamang
       </h2>
       <div class="links">
         <a
